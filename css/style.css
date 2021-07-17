@@ -1,0 +1,20 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Jumbotron */
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+/* End Jumbotron */
+
+/* Projects */
+#project {
+    background-color: #e2edff;
+}
+/* End Projects */
+
+section {
+    padding-top: 6rem;
+}
