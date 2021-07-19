@@ -15,6 +15,16 @@ body {
 }
 /* End Projects */
 
+/* Gallery */
+.gallery-img {
+    width: 100%;
+}
+
+#gallery .row > * {
+    padding: 0;
+}
+/* End Gallery */
+
 section {
     padding-top: 6rem;
 }
